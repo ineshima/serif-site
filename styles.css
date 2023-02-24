@@ -55,6 +55,13 @@ li::marker{
     content:'';
 }
 
+li{
+    transition: margin-left 0.5s ease-out 0.2s
+}
+li:hover{
+    margin-left: 10px;
+}
+
 p{
     text-indent: 10px;
 }
