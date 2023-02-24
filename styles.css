@@ -47,8 +47,8 @@ a:hover{
 }
 
 .toc{
-    background-color: rgb(23, 23, 23);
     margin:0px;
+    margin-top: 95px;
 }
 
 li::marker{
@@ -65,4 +65,5 @@ ul{
 
 h4{
     text-indent: 10px;
+    font-size: 21px;
 }
