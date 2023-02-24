@@ -107,6 +107,8 @@ h6{
     font-size:24px;
     margin-top: 40px;
     margin-bottom: 40px;
+    display:flex;
+    padding-left: 10px;
 
 }
 
@@ -119,4 +121,12 @@ h6{
 
 .date{
     color:grey;
+    padding-right: 10px;
+}
+
+.art-block a{
+    transition: margin-left 0.5s;
+}
+.art-block a:hover{
+    margin-left: 10px;
 }
