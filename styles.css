@@ -102,3 +102,21 @@ h6{
     margin:0px;
     color:grey;
 }
+
+.site-title{
+    font-size:24px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+
+}
+
+.art-block{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px rgb(61, 61, 61) dashed;
+}
+
+.date{
+    color:grey;
+}
